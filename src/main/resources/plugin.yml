@@ -1,0 +1,6 @@
+name: BiliBiliBot
+version: '${project.version}'
+main: cn.ChengZhiYa.BiliBiliBot.main
+api-version: 1.18
+authors: [ ChengZhiYa ]
+description: 哔哩哔哩机器人
